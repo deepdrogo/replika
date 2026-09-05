@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Replika — Solutions for Simulations — engineer reality before it ever happens."/>
 
-<br/><br/>
+<br/>
 
 <img src="assets/icon.png" width="96" alt="Replika icon"/>
 
